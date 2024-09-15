@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A PhD in your pocket
-categories: ["Longueur: Court", "Langue: Français", "Langue: Anglais", "Gamsblurb"]
+categories: ["Length: Short", "Gamsblurb"]
 tags: [Technology,Software Development,Artificial Intelligence,Prediction,Gamsblurb]
 excerpt_image: /assets/images/default-image.jpeg
 ref: https://martingamsby.github.io/un-phd-dans-votre-poche
