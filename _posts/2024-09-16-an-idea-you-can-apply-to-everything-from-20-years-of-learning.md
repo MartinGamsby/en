@@ -11,7 +11,7 @@ Motivation
 ,Life Hacks
 ,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm15atbsr015gjq0c25zedz89/preview-image-cc6Rmpn2053xuuP3G8Vy6cpnz1zJpb.jfif
-ref: https://martingamsby.github.io/
+ref: https://martingamsby.github.io/une-idee-qui-regle-tout-provenant-de-20-ans-dapprentissages
 
 ---
 
