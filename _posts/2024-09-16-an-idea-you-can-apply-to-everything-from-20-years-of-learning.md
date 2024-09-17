@@ -2,14 +2,7 @@
 layout: post
 title: An idea you can apply to everything, from 20 years of learning
 categories: ["Length: Short", "Gamsblurb"]
-tags: [Personal Development,
-Habits
-,Health,One At A Time,Fitness,
-Finances,
-Decluttering,
-Motivation
-,Life Hacks
-,Gamsblurb]
+tags: [Personal Development,Habits,Health,One At A Time,Fitness,Finances,Decluttering,Motivation,Life Hacks,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm15atbsr015gjq0c25zedz89/preview-image-cc6Rmpn2053xuuP3G8Vy6cpnz1zJpb.jfif
 ref: https://martingamsby.github.io/une-idee-qui-regle-tout-provenant-de-20-ans-dapprentissages
 
