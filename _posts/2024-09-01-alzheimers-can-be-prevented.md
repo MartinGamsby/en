@@ -10,9 +10,7 @@ ref: https://martingamsby.github.io/lalzheimer-peut-etre-evite
 
 ### **Alzheimer's can be prevented**
 
-# Alzheimer’s can be prevented
-
-***“You have belly fat? That’s brain damage”***
+> “You have belly fat? That’s brain damage”***
 
 I always thought that Alzheimer’s was just a fact of life.
 
