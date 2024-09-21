@@ -10,8 +10,6 @@ ref: https://martingamsby.github.io/parfois-prendre-soin-de-soi-cest-faire-ce-qu
 
 ### **Sometimes self-care means doing the things you've been putting off.**
 
-
-
 Spas, massages, relaxations, getaways, campsites, walks, meditation, yoga, relaxation.
 
 That’s all good.
@@ -49,4 +47,5 @@ When this is done, your relaxation techniques will be much more effective.
 ---
 
 - [Typeshare](https://typeshare.co/martingamsby/posts/sometimes-self-care-means-doing-the-things-youve-been-putting-off)
+- [X/Twitter](https://x.com/MartinGamsby_EN/status/1837473412165333048)
 
