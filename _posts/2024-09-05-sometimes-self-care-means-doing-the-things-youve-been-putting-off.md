@@ -10,6 +10,8 @@ ref: https://martingamsby.github.io/parfois-prendre-soin-de-soi-cest-faire-ce-qu
 
 ### **Sometimes self-care means doing the things you've been putting off.**
 
+
+
 Spas, massages, relaxations, getaways, campsites, walks, meditation, yoga, relaxation.
 
 That’s all good.
@@ -28,13 +30,15 @@ Make your will.
 
 Clean your room.
 
-Everything that's important that isn't done takes up space in your head.
+#### Everything that's important that isn't done 
+takes up space in your head.
 
 Release it.
 
 One of the best ways to know if something is important is when you don't want to do it.
 
-Ask yourself how you will feel if this thing is done.
+#### Ask yourself 
+how you will feel if this thing is done.
 
 Ask yourself if you are overestimating how long it would take to do it.
 
