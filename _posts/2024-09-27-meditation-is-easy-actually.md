@@ -22,7 +22,7 @@ No excuses. Do it now and breathe, consciously, just breathe, nothing else.
 
 ---
 
-- [X/Twitter](https://x.com/Martin_Gamsby/status/1839661003534938594)
+- [X/Twitter](https://x.com/Martin_Gamsby/status/1839663528199733518)
 - [Typeshare](https://typeshare.co/martingamsby/posts/meditation-is-easy-actually)
 - [LinkedIn](https://www.linkedin.com/posts/martingamsby_meditation-is-easy-actually-the-1-thing-activity-7245427756837011457-djqL?utm_source=share&utm_medium=member_desktop)
 
