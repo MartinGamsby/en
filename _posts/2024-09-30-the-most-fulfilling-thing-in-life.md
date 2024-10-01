@@ -29,4 +29,5 @@ https://x.com/thedankoe/status/1840713484939497605
 ---
 
 - [Typeshare](https://typeshare.co/martingamsby/posts/the-most-fulfilling-thing-in-life)
+- [X/Twitter](https://x.com/Martin_Gamsby/status/1840730539944185908)
 
