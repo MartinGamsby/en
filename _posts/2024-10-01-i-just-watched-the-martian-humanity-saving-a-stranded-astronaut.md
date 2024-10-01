@@ -4,11 +4,13 @@ title: I just watched "the Martian" - Humanity saving a stranded astronaut
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Civilization,Humanity,Philosophy,ScienceAndTechnology,Fiction,Priorities,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/post/cm1qpz8ng0006jw0c3ae8tpv8/images/9903cd0f-aadc-43dc-b7f3-2b5872741cf7-G3Wu2JPY3f6jhsvGAemWQ3NGkOoMyE.jfif
-ref: https://martingamsby.github.io/je-viens-de-regarder-seul-sur-mars--lhumanite-a-la-rescousse-dun-astronaute
+ref: https://martingamsby.github.io/je-viens-de-regarder-seul-sur-mars-lhumanite-a-la-rescousse-dun-astronaute
 
 ---
 
 ### **I just watched "the Martian" - Humanity saving a stranded astronaut**
+
+
 
 It's nice seeing so many people trying to save one person.
 
