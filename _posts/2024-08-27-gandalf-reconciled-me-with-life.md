@@ -36,4 +36,5 @@ And that's it.
 
 - [Typeshare](https://typeshare.co/martingamsby/posts/gandalf-reconciled-me-with-life)
 - [X/Twitter](https://x.com/MartinGamsby_EN/status/1833471576450166916)
+- [Bluesky](https://bsky.app/profile/martingamsby.bsky.social/post/3l6v7ig3ffx2r)
 
