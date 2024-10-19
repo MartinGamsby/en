@@ -1,7 +1,7 @@
 ---
 layout: post
 title: English ruined my life
-categories: ["Length: Short", "Gamsblurb"]
+categories: ["Length: Medium", "Gamsblurb"]
 tags: [Write,Create,Music,YouTube,English,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm061d3ao001wkz0crx1rapup/preview-image-mXissGlLYzKXW41x1aPKEnU1FNDoGS.jfif
 ref: https://martingamsby.github.io/langlais-a-ruine-ma-vie

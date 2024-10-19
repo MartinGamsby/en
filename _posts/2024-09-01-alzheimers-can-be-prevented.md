@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alzheimer's can be prevented
-categories: ["Length: Short", "Gamsblurb"]
+categories: ["Length: Medium", "Gamsblurb"]
 tags: [Alzheimer's,Health,Exercise,Sleep,Diet,Did You Know,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0jjyse701smjz0cl4uuk5xy/preview-image-EeDFBF6JhEooBosvqvy1iqSa4mzxeN.jfif
 ref: https://martingamsby.github.io/lalzheimer-peut-etre-evite

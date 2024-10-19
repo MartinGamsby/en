@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I was thinking about something somewhat that the other day ...
-categories: ["Length: Short", "Gamsblurb"]
+categories: ["Length: Mini", "Gamsblurb"]
 tags: [Technology,Phone,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/je-pensais-a-ca-lautre-jour
