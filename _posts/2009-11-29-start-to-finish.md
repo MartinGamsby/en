@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Start to finish
-categories: ["Length: Medium", "Gamsblurb"]
-tags: [First step,Goal,Ambition,Confidence,Growth,Optimism,Momentum,Personal Development,Blog,Gamsblurb]
+categories: ["Length: Short", "Gamsblurb"]
+tags: [First step,Goal,Ambition,Confidence,Growth,Optimism,Momentum,Personal Development,Gamsblog,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2dnwpw3015sld0cxbr9qnbp/preview-image-CKhooz0ynaYbXvzF6Ald7zVIRpN1GF.png
 ref: https://martingamsby.github.io/commencez-pour-finir
 

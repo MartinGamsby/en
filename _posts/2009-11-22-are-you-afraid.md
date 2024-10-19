@@ -2,7 +2,7 @@
 layout: post
 title: Are you afraid?
 categories: ["Length: Short", "Gamsblurb"]
-tags: [Blog,Self-confidence,Motivation,Personal development,Learning,Self-esteem,Shyness,French,Piano,Music,Gamsblurb]
+tags: [Gamsblog,Self-confidence,Motivation,Personal development,Learning,Self-esteem,Shyness,French,Piano,Music,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm210fp4100b6jy0e7siar6g6/preview-image-xrC3LK9RsV28UGtuXBnvqOBOmFKDcT.webp
 ref: https://martingamsby.github.io/avez-vous-peur
 
