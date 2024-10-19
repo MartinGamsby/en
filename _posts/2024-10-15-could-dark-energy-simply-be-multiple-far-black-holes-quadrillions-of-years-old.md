@@ -117,7 +117,6 @@ If the big bang isn’t the beginning of the universe, what is it?
 ### Conclusion
 
 <span style="font-weight: 400;">I feel like it’s possible? I don’t know if it’s probable, so that’s why I’m asking. Any insights?</span>
-	
 
 ---
 

@@ -10,8 +10,6 @@ ref: https://martingamsby.github.io/je-viens-de-regarder-seul-sur-mars-lhumanite
 
 ### **I just watched "the Martian" - Humanity saving a stranded astronaut**
 
-
-
 It's nice seeing so many people trying to save one person.
 
 The whole world is rooting for NASA to save him.

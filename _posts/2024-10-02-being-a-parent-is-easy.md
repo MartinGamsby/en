@@ -4,7 +4,7 @@ title: Being a parent is easy
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Parenting,Mental Health,Personal Care,Priorities,Gamsblurb]
 excerpt_image: 
-ref: https://martingamsby.github.io/etre-parent-est-facile
+ref: https://martingamsby.github.io/etre-parent-cest-facile
 
 ---
 

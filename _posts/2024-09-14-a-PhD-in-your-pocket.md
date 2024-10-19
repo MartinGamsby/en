@@ -30,5 +30,6 @@ Stupidity?
 
 ---
 
-[X/Twitter](https://x.com/MartinGamsby_EN/status/1834913441284231360)
-[LinkedIn](https://www.linkedin.com/posts/martingamsby_phd-is-your-pocket-yesterday-chatgpt-activity-7240717023339556864-fAot?utm_source=share&utm_medium=member_desktop)
+- [X/Twitter](https://x.com/MartinGamsby_EN/status/1834913441284231360)
+- [LinkedIn](https://www.linkedin.com/posts/martingamsby_phd-is-your-pocket-yesterday-chatgpt-activity-7240717023339556864-fAot?utm_source=share&utm_medium=member_desktop)
+

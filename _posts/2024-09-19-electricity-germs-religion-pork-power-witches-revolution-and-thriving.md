@@ -10,8 +10,6 @@ ref: https://martingamsby.github.io/electricite-germes-religion-porc-pouvoir-sor
 
 ### **Electricity, Germs, Religion, Pork, Power, Witches, Revolution and Thriving**
 
-
-
 > If you could bring one piece of technology back to 100 years before it was invented, what would you choose (E.g. Steam Engine was patented 1698 so you go back to 1598 and spread steam engine technology)
 
 *This is a discussion I had around that question:*

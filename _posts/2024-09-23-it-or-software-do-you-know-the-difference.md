@@ -4,7 +4,7 @@ title: IT or software. Do you know the difference?
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Computer Science,Software,Analogy,Software development,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1f8sism00jlld0cdyr4aw57/preview-image-zEPKDW2ifnHd1pEmddGCnVHWEoRbQV.jfif
-ref: https://martingamsby.github.io/informatique-ou-logiciel-connaissez-vous-la-difference-
+ref: https://martingamsby.github.io/informatique-ou-logiciel-connaissez-vous-la-difference
 
 ---
 
