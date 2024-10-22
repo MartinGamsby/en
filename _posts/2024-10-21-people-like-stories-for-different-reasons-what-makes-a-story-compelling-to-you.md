@@ -4,7 +4,7 @@ title: People like stories for different reasons. What makes a story compelling 
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Stories,Fiction,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2jenv79000tl00cv0ob7xg0/preview-image-X6g9fsysv7XzWCIoyNpgnLQzlIRV0u.webp
-ref: https://martingamsby.github.io/les-gens-aiment-les-histoires-pour-differentes-raisons-quest-ce-qui-rend-une-histoire-captivante-a-vos-yeux
+ref: https://martingamsby.github.io/on-aime-les-histoires-pour-differentes-raisons-quest-ce-quune-bonne-histoire-pour-vous
 
 ---
 
