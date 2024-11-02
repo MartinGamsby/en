@@ -26,7 +26,7 @@ If you're interested:
 
 [A video of the music: https://www.youtube.com/watch?v=ug0Y0fZ-3bw](https://www.youtube.com/watch?v=ug0Y0fZ-3bw)
 
-[The score: https://musescore.com/user/36546990/scores/21503692](https://musescore.com/user/36546990/scores/21503692?from=github_io) 
+[The score: https://musescore.com/user/36546990/scores/21503692](https://musescore.com/user/36546990/scores/21503692?from=github_io)
 
 ---
 

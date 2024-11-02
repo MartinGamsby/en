@@ -2,7 +2,7 @@
 layout: post
 title: My teacher's secret
 categories: ["Length: Short", "Gamsblurb"]
-tags: [Gamsblurb]
+tags: [Learn,Gamsblog,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/le-secret-de-mon-professeur
 
