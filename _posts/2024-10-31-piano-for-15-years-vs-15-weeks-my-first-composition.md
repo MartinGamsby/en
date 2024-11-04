@@ -24,7 +24,7 @@ And it's not super good, but I UNDERSTAND it, and that's a great feeling, and ma
 
 If you're interested:
 
-[A video of the music: https://www.youtube.com/watch?v=ug0Y0fZ-3bw](https://www.youtube.com/watch?v=ug0Y0fZ-3bw)
+[A video of the music: https://www.youtube.com/watch?v=OMOjKgAmqMI](https://www.youtube.com/watch?v=OMOjKgAmqMI)
 
 [The score: https://musescore.com/user/36546990/scores/21503692](https://musescore.com/user/36546990/scores/21503692?from=github_io)
 
