@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing challenge: imagine if a mundane task became something you can no longer take for granted, because now it comes with some consequence
+title: Writing challenge; imagine if a mundane task became something you can no longer take for granted, because now it comes with some consequence
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Writing,Gluten,Gamsblurb]
 excerpt_image: 
@@ -8,7 +8,7 @@ ref: https://martingamsby.github.io/defi-decriture-imaginez-si-une-tache-banale-
 
 ---
 
-### **Writing challenge: imagine if a mundane task became something you can no longer take for granted, because now it comes with some consequence**
+### **Writing challenge; imagine if a mundane task became something you can no longer take for granted, because now it comes with some consequence**
 
 Donut day
 Pizza party
