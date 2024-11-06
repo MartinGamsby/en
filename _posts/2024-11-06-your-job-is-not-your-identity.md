@@ -4,7 +4,7 @@ title: Your job is not your identity
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Identity,Growth,Perspective,Gamsblurb]
 excerpt_image: 
-ref: https://martingamsby.github.io/votre-travail-nest-pas-votre-identite
+ref: https://martingamsby.github.io/ton-travail-nest-pas-ton-identite
 
 ---
 
