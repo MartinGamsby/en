@@ -69,4 +69,6 @@ But remember: 5 minutes can make all the difference and give you the taste and e
 ---
 
 - [Typeshare](https://typeshare.co/martingamsby/posts/cm3907bgp0038l50ceoui4t41)
+- [X/Twitter](https://bsky.app/profile/martingamsby.bsky.social/post/3lahccdfpnp2v)
+- [Source](https://blog.comment-apprendre.com/le-gros-avantage-de-lecole/)
 
