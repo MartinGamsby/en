@@ -4,7 +4,7 @@ title: Are you sick? Injured?
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Motivation,Health,Gamsblurb]
 excerpt_image: 
-ref: https://martingamsby.github.io/etes-vous-malade-blesse
+ref: https://martingamsby.github.io/malade-blesse
 
 ---
 
