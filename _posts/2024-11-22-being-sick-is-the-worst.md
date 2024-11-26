@@ -34,9 +34,6 @@ As soon as you can, get back on track.
 
 Get back (or to) an equilibrium, don't be late on everything.
 
-
-
-
 ---
 
 - [Typeshare](https://typeshare.co/martingamsby/posts/being-sick-is-the-worst)
