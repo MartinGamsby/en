@@ -72,7 +72,6 @@ hiccup coming. And it's still the same trick.
 
 Simply override your body's hiccup glitch, with your body's survival instincts (which has higher priority).
 
-
 ---
 
 - [Typeshare](https://typeshare.co/martingamsby/posts/no-more-hiccup)

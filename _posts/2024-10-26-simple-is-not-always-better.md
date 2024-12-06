@@ -4,7 +4,7 @@ title: Simple is not always better
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Simplicity,Smurf,Gamsblurb]
 excerpt_image: 
-ref: https://martingamsby.github.io/la-simplicite-nest-pas-toujours-la-meilleure
+ref: https://martingamsby.github.io/le-plus-simple-nest-pas-toujours-le-meilleur
 
 ---
 

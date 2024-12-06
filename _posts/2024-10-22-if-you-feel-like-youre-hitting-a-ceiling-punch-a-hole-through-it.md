@@ -14,4 +14,5 @@ ref: https://martingamsby.github.io/si-vous-avez-limpression-de-heurter-un-plafo
 
 ---
 
+- [Typeshare](https://typeshare.co/martingamsby/posts/if-you-feel-like-youre-hitting-a-ceiling-punch-a-hole-through-it)
 
