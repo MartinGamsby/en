@@ -18,4 +18,8 @@ The real problem is not the difficulty, it is the mentality of the students when
 
 ---
 
+- [Typeshare](https://typeshare.co/martingamsby/posts/guide-for-mathematician)
+- [X/Twitter](https://twitter.com/user/status/1869810294467203247)
+- [Bluesky](https://bsky.app/profile/martingamsby.bsky.social/post/3ldoigl776p2u)
+- [YouTube Shorts](https://www.youtube.com/watch?v=KkF3-A3x5a4)
 

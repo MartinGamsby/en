@@ -16,4 +16,8 @@ In ancient Greece, a certain Socrates denounced the sophists of his time, who cl
 
 ---
 
+- [Typeshare](https://typeshare.co/martingamsby/posts/hasty-generalization)
+- [X/Twitter](https://twitter.com/user/status/1868841278030401874)
+- [Bluesky](https://bsky.app/profile/martingamsby.bsky.social/post/3ldhrbcgbej2t)
+- [YouTube Shorts](https://www.youtube.com/watch?v=BSe8bexvytk)
 

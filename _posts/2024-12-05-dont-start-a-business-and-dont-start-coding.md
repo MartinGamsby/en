@@ -4,7 +4,7 @@ title: Don't start a business, and don't start coding
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Coding,Business,Gamsblurb]
 excerpt_image: 
-ref: https://martingamsby.github.io/
+ref: https://martingamsby.github.io/ne-demarre-pas-dentreprise-et-ne-commence-pas-a-coder
 
 ---
 

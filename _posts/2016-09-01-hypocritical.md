@@ -18,4 +18,5 @@ Colton says that it is part of human regression, that it happens more and more o
 
 ---
 
+- [Typeshare](https://typeshare.co/martingamsby/posts/guide-for-hypocrite)
 

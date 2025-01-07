@@ -20,4 +20,5 @@ On the Internet, there are 4 types of personalities.
 
 ---
 
+- [Typeshare](https://typeshare.co/martingamsby/posts/guide-for-personalities)
 
