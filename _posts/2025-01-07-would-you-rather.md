@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Would you rather:
+title: Would you rather
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Health,Don't die,Bryan Johnson,Gamsblurb]
 excerpt_image: 
@@ -8,7 +8,7 @@ ref: https://martingamsby.github.io/preferes-tu
 
 ---
 
-### **Would you rather:**
+### **Would you rather**
 
 - be hungry for the rest of your life, with a guaranteed doubled lifespan.
 - continue what you're doing with a guaranteed halved lifespan.
