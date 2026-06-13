@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Reduction or correction
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/reduction-ou-correction
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-30-reduction-or-correction/
 
 ---
 

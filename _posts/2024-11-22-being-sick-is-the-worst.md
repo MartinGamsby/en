@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Being sick is the worst
 categories: ["Length: Short", "Gamsblurb"]
 tags: [One At A Time,Heatlh,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/etre-malade-cest-la-pire-chose
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-11-22-being-sick-is-the-worst/
 
 ---
 

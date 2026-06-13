@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: A PhD in your pocket
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Technology,Software Development,Artificial Intelligence,Prediction,Gamsblurb]
 excerpt_image: /assets/images/default-image.jpeg
 ref: https://martingamsby.github.io/un-phd-dans-votre-poche
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-14-a-PhD-in-your-pocket/
 
 ---
 

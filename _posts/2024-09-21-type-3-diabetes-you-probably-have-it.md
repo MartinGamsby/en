@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Type 3 diabetes? You probably have it
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Alzheimer,Fun Fact,Food,Science,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1c5nc7s012djo0c8xkf7oqi/preview-image-gYRkYBgGvz8lWgxPZUQPJbKWf8zjOd.jfif
 ref: https://martingamsby.github.io/diabete-de-type-3-vous-lavez-probablement
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-21-type-3-diabetes-you-probably-have-it/
 
 ---
 

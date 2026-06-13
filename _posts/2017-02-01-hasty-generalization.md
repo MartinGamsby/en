@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Hasty Generalization
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Guide For,Interverted (Novel),Djosh Sho,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/generalisation-hative
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2017-02-01-hasty-generalization/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: The good things we get from life often come when we overcome our fears.
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Quote]
 excerpt_image: 
 ref: https://martingamsby.github.io/les-bonnes-choses-que-nous-obtenons-de-la-vie-viennent-souvent-lorsque-nous-surmontons-nos-peurs
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-19-the-good-things-we-get-from-life-often-come-when-we-overcome-our-fears/
 
 ---
 

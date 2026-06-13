@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Why is the sky blue? (And everything else)
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Parent,Education,Science,Child,Curiosity,Learn,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0u0tmff002sl80clnfj5xm9/preview-image-BgyQ2Qh1IFY8Ch5ekAXLcLH5mL0gpB.jpg
 ref: https://martingamsby.github.io/pourquoi-le-ciel-est-bleu-et-tout-le-reste
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-08-why-is-the-sky-blue-and-everything-else/
 
 ---
 

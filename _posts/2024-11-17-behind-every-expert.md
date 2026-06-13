@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Behind every expert
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Expert,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/derriere-chaque-expert
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-11-17-behind-every-expert/
 
 ---
 

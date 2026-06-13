@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Would you rather
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Health,Don't die,Bryan Johnson,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/preferes-tu
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2025-01-07-would-you-rather/
 
 ---
 

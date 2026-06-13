@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: (NOT) Drop out of school, use Google instead?
 categories: ["Length: Short", "Gamsblurb"]
 tags: [School,Learn,Software Development,Programming,Work,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0x5rffm006rid0clgji46n3/preview-image-1jQs1eQ9RoWfmQxE4XcAO39KUki6QW.jfif
 ref: https://martingamsby.github.io/not-decrochez-de-lecole-utilisez-google-a-la-place
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-10-not-drop-out-of-school-use-google-instead/
 
 ---
 

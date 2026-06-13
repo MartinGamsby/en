@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Sometimes self-care means doing the things you've been putting off.
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Finance,Health,Personal Care,Mental Health,Productivity,Stress,Relaxation,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0pysw6n0213kz0cru8vdzfd/preview-image-YQ1xYBhkLp7wjEXXgpllN6ATULINRT.jfif
 ref: https://martingamsby.github.io/parfois-prendre-soin-de-soi-cest-faire-ce-que-vous-remettez-a-plus-tard
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-05-sometimes-self-care-means-doing-the-things-youve-been-putting-off/
 
 ---
 

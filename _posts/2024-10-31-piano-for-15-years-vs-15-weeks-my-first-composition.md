@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Piano for 15 years vs 15 weeks - My first composition
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Music,Composition,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2xcwr9a006vmn0c9a54tm2f/preview-image-tIgl2zRrCWKlSf5NQNFgOf7qgqf6tR.png
 ref: https://martingamsby.github.io/piano-pendant-15-ans-vs-15-semaines-ma-premiere-composition
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-31-piano-for-15-years-vs-15-weeks-my-first-composition/
 
 ---
 

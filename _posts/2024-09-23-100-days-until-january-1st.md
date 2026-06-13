@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: 100 days until January 1st
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Personal Development,Habits,Motivation,Productivity,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/100-jours-avant-le-1er-janvier
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-23-100-days-until-january-1st/
 
 ---
 

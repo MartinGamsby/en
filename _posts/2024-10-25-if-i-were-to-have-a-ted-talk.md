@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: If I were to have a Ted Talk
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Regenerative Agriculture,Farming,Globalization,Capitalism,Climate,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2othkld001jlg0c19tqtvrd/preview-image-uiQjCNeD76kI6lu2WMAJs50OhUxKRK.jfif
 ref: https://martingamsby.github.io/si-je-faisais-un-ted-talk
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-25-if-i-were-to-have-a-ted-talk/
 
 ---
 

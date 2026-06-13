@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: My teacher's secret
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Learn,Gamsblog,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/le-secret-de-mon-professeur
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2010-01-17-my-teachers-secret/
 
 ---
 

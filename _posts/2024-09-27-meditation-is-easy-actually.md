@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Meditation is easy, actually.
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Meditation,Chade-Meng Tan,Breathing,Walking,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1kr8jju00a3md0c8ceystn4/preview-image-x68xaM2B9PVsmYIYs9bWIEvDqaL9BQ.jfif
 ref: https://martingamsby.github.io/la-meditation-cest-facile-en-fait
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-27-meditation-is-easy-actually/
 
 ---
 

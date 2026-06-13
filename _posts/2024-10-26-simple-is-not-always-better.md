@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Simple is not always better
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Simplicity,Smurf,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/le-plus-simple-nest-pas-toujours-le-meilleur
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-26-simple-is-not-always-better/
 
 ---
 

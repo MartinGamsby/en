@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: The most fulfilling thing in life
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Purpose,Ikigai,Ambition,Meditation,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1p8w5ex008omg0cgnndxoan/preview-image-EefmoLKqVCU99TtOQsE58BFo01XdCZ.png
 ref: https://martingamsby.github.io/raison-de-vivre
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-30-the-most-fulfilling-thing-in-life/
 
 ---
 

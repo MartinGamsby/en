@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: The Centauri Ark (working title)
 categories: ["Length: Medium", "Gamsblurb"]
 tags: [Fiction,Science,Space,Science Fiction,Excerpt,Gamsbook,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm23uordg00pzmh0c2odgkwa7/preview-image-hILg6abLoTI5PqLUpiIWiPI34oZapG.png
 ref: https://martingamsby.github.io/larche-de-centauri-titre-provisoire
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-09-the-centauri-ark-working-title/
 
 ---
 

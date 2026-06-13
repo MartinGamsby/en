@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Electricity, Germs, Religion, Pork, Power, Witches, Revolution and Thriving
 categories: ["Length: Medium", "Gamsblurb"]
 tags: [Electricity,Germ Theory,Religion vs. Science,Science,Religion,Ecclesiastical Authority,Faith,Health,Public Health,Social Change,Politics,Globalization,Witch Hunts,Education,Revolution,Indoctrination,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm19vgnn3001ol70coar7yqcf/preview-image-bjxpv96zGQxeyEaybT0Zc3USloBQ3K.jfif
 ref: https://martingamsby.github.io/electricite-germes-religion-porc-pouvoir-sorcieres-revolution-et-prosperite
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-19-electricity-germs-religion-pork-power-witches-revolution-and-thriving/
 
 ---
 

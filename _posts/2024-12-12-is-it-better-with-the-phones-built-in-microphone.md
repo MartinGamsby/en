@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Is it better with the phone's built-in microphone?
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Piano,Microphone,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/ca-sonne-mieux-avec-le-microphone-du-telephone
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-12-12-is-it-better-with-the-phones-built-in-microphone/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Vegetables and meat
 categories: ["Length: Medium", "Gamsblurb"]
 tags: [Food,Health,Diet,Food sensitivity,Diet restrictions,Health struggles,Gluten,Elimination diet,Anxiety,Trial and error,Isolation,Digestive issues,Self-discovery journey,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2551tnd00l6l80c9ag86pp5/preview-image-Pg7N3E4Mz7yogakkTyaxWsnV6XrlVw.webp
 ref: https://martingamsby.github.io/legumes-et-viande
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-11-vegetables-and-meat/
 
 ---
 

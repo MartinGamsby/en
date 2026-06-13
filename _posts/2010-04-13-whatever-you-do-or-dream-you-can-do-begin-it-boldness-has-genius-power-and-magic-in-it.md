@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Whatever you do, or dream you can do, begin it. Boldness has genius, power and magic in it.
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Quote,Create]
 excerpt_image: 
 ref: https://martingamsby.github.io/quoi-que-tu-reves-dentreprendre-commence-le-laudace-a-du-genie-du-pouvoir-de-la-magie
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2010-04-13-whatever-you-do-or-dream-you-can-do-begin-it-boldness-has-genius-power-and-magic-in-it/
 
 ---
 

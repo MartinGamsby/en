@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: When did self-help become negative?
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Mental Health,Productivity,Personal Development,Collective Development,Community,Mutual Aid,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0r3zipv016eml0cl0mbyfhj/preview-image-kWI9H9m8mU0aBKbkuQSAh4mIvs2zuv.jpg
 ref: https://martingamsby.github.io/depuis-quand-le-developpement-personnel-est-negatif
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-06-when-did-self-help-become-negative/
 
 ---
 

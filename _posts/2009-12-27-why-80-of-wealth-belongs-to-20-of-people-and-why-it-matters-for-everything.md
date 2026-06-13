@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Why 80% of wealth belongs to 20% of people, and why it matters for everything
 categories: ["Length: Medium", "Gamsblurb"]
 tags: [Wealth,Learning,Motivation,Success,Education,Pareto,Organization,Luck,Gamsblog,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/pourquoi-80-des-richesses-appartient-a-20-des-gens-et-pourquoi-ca-touche-tout
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2009-12-27-why-80-of-wealth-belongs-to-20-of-people-and-why-it-matters-for-everything/
 
 ---
 

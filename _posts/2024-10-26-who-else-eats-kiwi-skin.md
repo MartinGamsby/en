@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Who else eats kiwi skin?
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Question,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/qui-dautre-mange-la-peau-du-kiwi
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-26-who-else-eats-kiwi-skin/
 
 ---
 

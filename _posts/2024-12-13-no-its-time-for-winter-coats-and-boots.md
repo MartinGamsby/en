@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: No, it's time for winter coats and boots
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/non-cest-le-temps-des-manteaux-et-des-bottes-dhiver
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-12-13-no-its-time-for-winter-coats-and-boots/
 
 ---
 

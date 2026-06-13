@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Falling sensation
 categories: ["Length: Short", "Gamsblurb"]
 tags: [New Expression,New Word,Did You Know,FunFact,Science,Einstein,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0kyn69n02obk60cf6z7vqz2/preview-image-bmWXrPJcOzOxZWxcPC0vFQWxSjhvl1.jfif
 ref: https://martingamsby.github.io/ca-chatouille-les-papilles
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-02-falling-sensation/
 
 ---
 

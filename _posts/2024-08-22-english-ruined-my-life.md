@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: English ruined my life
 categories: ["Length: Medium", "Gamsblurb"]
 tags: [Write,Create,Music,YouTube,English,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm061d3ao001wkz0crx1rapup/preview-image-mXissGlLYzKXW41x1aPKEnU1FNDoGS.jfif
 ref: https://martingamsby.github.io/langlais-a-ruine-ma-vie
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-08-22-english-ruined-my-life/
 
 ---
 

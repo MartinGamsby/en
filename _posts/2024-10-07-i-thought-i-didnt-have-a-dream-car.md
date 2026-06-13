@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: I thought I didn't have a dream car...
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Cars,Future,Teleportation,Science,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/post/cm1z21oeu00hqjt0cd8m0xp4e/images/baeeed87-c861-40f1-b5bf-5754b641cc14-NRQxTJ99AnzbENDs30zUblT0LLwJ4l.jfif
 ref: https://martingamsby.github.io/je-croyais-que-je-navais-pas-de-voiture-de-reve
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-07-i-thought-i-didnt-have-a-dream-car/
 
 ---
 

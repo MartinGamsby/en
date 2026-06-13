@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Going to the restaurant (like changing habits) is a hit-and-miss
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Gluten,Health,Food,Restaurant,Civilisation,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm212qtig00vdlf0c1vs62ihn/preview-image-iW8eUnJ0zSFkWhcQlNAkbhdOMZVKPd.png
 ref: https://martingamsby.github.io/aller-au-restaurant-tout-comme-changer-ses-habitudes-ca-passe-ou-ca-casse
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-08-going-to-the-restaurant-like-changing-habits-is-a-hit-and-miss/
 
 ---
 

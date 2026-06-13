@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: The BIG advantage of school
 categories: ["Length: Medium", "Gamsblurb"]
 tags: [School,Learn,One at a time,Gamsblog,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/le-gros-avantage-de-lecole
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2010-02-07-the-big-advantage-of-school/
 
 ---
 

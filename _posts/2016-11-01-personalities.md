@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Personalities
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Guide For,Interverted (Novel),Fiction,Djosh Sho,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/personnalites
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2016-11-01-personalities/
 
 ---
 

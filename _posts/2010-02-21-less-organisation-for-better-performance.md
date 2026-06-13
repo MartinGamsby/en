@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Less organisation for better performance?
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Learning, Brain, Organization, Gamsblog, Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/moins-de-classement-pour-un-meilleur-rendement
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2010-02-21-less-organisation-for-better-performance/
 
 ---
 

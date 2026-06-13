@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: You know how AI is really bad at generating text in images and videos?
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/vous-savez-comment-lia-est-vraiment-nulle-pour-generer-du-texte-dans-les-images-et-les-videos
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-12-23-you-know-how-ai-is-really-bad-at-generating-text-in-images-and-videos/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Upside down organisation
 categories: ["Length: Medium", "Gamsblurb"]
 tags: [Gamsblog,Organization,Learn,Gamsblurb]
 excerpt_image: http://comment-apprendre.com/apprendre%20en%20gagnant%20du%20temps.jpg
 ref: https://martingamsby.github.io/le-classement-sans-dessus-dessous
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2010-03-07-upside-down-organisation/
 
 ---
 

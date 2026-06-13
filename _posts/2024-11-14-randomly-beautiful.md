@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Randomly beautiful
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/aleatoirement-beau
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-11-14-randomly-beautiful/
 
 ---
 

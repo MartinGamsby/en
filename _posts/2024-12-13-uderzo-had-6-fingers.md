@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Uderzo had 6 fingers
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Truth,Internet,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/uderzo-avait-6-doigts
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-12-13-uderzo-had-6-fingers/
 
 ---
 

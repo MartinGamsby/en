@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Never underestimate others
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Advice,Learn,Teacher,Accountability,Experience,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2688ccs000sl30c8uhph4k4/preview-image-I7BLPAXZT7PL4dESiemzqZM3IuHFHO.webp
 ref: https://martingamsby.github.io/ne-sous-estime-jamais-les-autres
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-12-never-underestimate-others/
 
 ---
 

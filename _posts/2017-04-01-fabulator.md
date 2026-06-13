@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Fabulator
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Guide For,Interverted (Novel),Fiction,Djosh Sho,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/fabulateur
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2017-04-01-fabulator/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Puffy head, bird legs
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Space,Science,Health,Gravity,Exercise,ISS,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/tete-gonflee-pattes-doiseau
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-22-puffy-head-bird-legs/
 
 ---
 

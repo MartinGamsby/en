@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: No more hiccup
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Hiccup,Survival,Reflexes,Breathing,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm2rmcbkc009sl80cutci2oc6/preview-image-1v66GHDdkYaJ8Ey4ClZMfAmXyH6NBt.png
 ref: https://martingamsby.github.io/fini-le-hoquet
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-27-no-more-hiccup/
 
 ---
 

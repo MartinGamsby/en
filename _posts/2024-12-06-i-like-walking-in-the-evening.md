@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: I like walking in the evening
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Walk,Health,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/jaime-marcher-le-soir
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-12-06-i-like-walking-in-the-evening/
 
 ---
 

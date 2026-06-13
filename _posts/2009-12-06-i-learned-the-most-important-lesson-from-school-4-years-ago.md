@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: I learned the most important lesson from school, 4 years ago …
 categories: ["Length: Medium", "Gamsblurb"]
 tags: [Learning,Training vs Learning,Languages,Organization,Take Time to Save Time,Gamsblog,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/jai-appris-la-lecon-la-plus-importante-de-lecole-il-y-a-4-ans
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2009-12-06-i-learned-the-most-important-lesson-from-school-4-years-ago/
 
 ---
 

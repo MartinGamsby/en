@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: The Musical Experience - Week 1
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Game,Music,DevLog,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/lexperience-musicale-semaine-1
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-11-04-the-musical-experience-week-1/
 
 ---
 

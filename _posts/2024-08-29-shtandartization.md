@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Shtandartization
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [New Word,Neologism,XKCD,Gamsblurb]
 excerpt_image: https://imgs.xkcd.com/comics/standards_2x.png
 ref: https://martingamsby.github.io/shtandartisation
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-08-29-shtandartization/
 
 ---
 

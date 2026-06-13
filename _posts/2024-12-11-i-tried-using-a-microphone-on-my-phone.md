@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: I tried using a microphone on my phone
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Piano,Music,Microphone,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/jai-essaye-un-micro-sur-mon-telephone
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-12-11-i-tried-using-a-microphone-on-my-phone/
 
 ---
 

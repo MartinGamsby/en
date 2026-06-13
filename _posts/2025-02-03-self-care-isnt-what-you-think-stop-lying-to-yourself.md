@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Self-Care Isn’t What You Think (Stop Lying to Yourself)
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Finance,Health,Personal Care,Mental Health,Productivity,Stress,Relaxation,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0pysw6n0213kz0cru8vdzfd/preview-image-YQ1xYBhkLp7wjEXXgpllN6ATULINRT.jfif
 ref: https://martingamsby.github.io/parfois-prendre-soin-de-soi-cest-faire-ce-que-vous-remettez-a-plus-tard-v2
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2025-02-03-self-care-isnt-what-you-think-stop-lying-to-yourself/
 
 ---
 

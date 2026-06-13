@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Your Brain Injuries
 categories: ["Length: Medium", "Gamsblurb"]
 tags: [Anecdotes,Confidence,Training vs Learning,Gamsblog,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/les-blessures-de-votre-cerveau
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2009-12-20-your-brain-injuries/
 
 ---
 

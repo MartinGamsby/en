@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Programming, a love-hate relationship? (Not just programming)
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Programming,Code,Software Development,Learn,C++,Humor,Personal Development,Personalities,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0v2227100gul50cmkytgy2w/preview-image-ZoyiXQkxvoxQPqGWPpWVpHaGKPk4Po.jpg
 ref: https://martingamsby.github.io/la-programmation-un-rapport-amour-haine-pas-juste-la-programmation
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-09-programming-a-love-hate-relationship-not-just-programming/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Train your brain
 categories: ["Length: Medium", "Gamsblurb"]
 tags: [Confidence,Training,Learning,Gym,Training vs Learning,Gamsblog,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1tl8jj3000olb0cprxxkkxo/preview-image-wj32LDqeWauTkd7TFJ8ZNb2ifDUXfS.jfif
 ref: https://martingamsby.github.io/musclez-votre-cerveau
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2009-11-09-train-your-brain/
 
 ---
 

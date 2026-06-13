@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: AI for president? (hear me out)
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Artificial Intelligence,AI,Politics,Flight,One At A Time,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm13jx1u1000ilc0c1m1by799/preview-image-bbgfvSJxKSNy7NVg0CSVKhNHVye1B2.jfif
 ref: https://martingamsby.github.io/lia-au-pouvoir-hear-me-out
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-15-ai-for-president-hear-me-out/
 
 ---
 

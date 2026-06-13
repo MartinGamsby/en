@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Hypocritical
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Guide For,Interverted (Novel),Fiction,Djosh Sho,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/hypocrite
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2016-09-01-hypocritical/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Gandalf reconciled me with life
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Magic,Myers-Briggs,Personalities,Purpose,Ikigai,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0cfphhf00lmlb0c67d036e8/preview-image-ZbYl0a55qAyhUN6BCOXlZ5YP58hVhB.jfif
 ref: https://martingamsby.github.io/gandalf-ma-reconcilie-avec-la-vie
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-08-27-gandalf-reconciled-me-with-life/
 
 ---
 

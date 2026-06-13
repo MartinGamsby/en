@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: A love-hate relationship?
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Programming,Code,Software Development,Learn,C++,Humor,Personal Development,Personalities,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0v2227100gul50cmkytgy2w/preview-image-ZoyiXQkxvoxQPqGWPpWVpHaGKPk4Po.jpg
 ref: https://martingamsby.github.io/une-relation-amour-haine
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2025-06-24-a-love-hate-relationship/
 
 ---
 

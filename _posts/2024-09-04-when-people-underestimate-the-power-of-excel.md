@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: When People Underestimate the Power of Excel
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Excel,Spreadsheet,Excel Tutorial,90s,Excel Humor,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/quand-les-gens-sous-estiment-le-pouvoir-dexcel
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-04-when-people-underestimate-the-power-of-excel/
 
 ---
 

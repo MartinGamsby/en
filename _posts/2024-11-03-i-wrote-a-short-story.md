@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: I wrote a short story
 categories: ["Length: Short", "Gamsblurb"]
 tags: [History,Fiction,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/jai-ecrit-une-histoire-courte
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-11-03-i-wrote-a-short-story/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: I shaved for the first time in 2 years
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Health,Gluten,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/je-me-suis-rase-pour-la-premiere-fois-depuis-2-ans
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-11-26-i-shaved-for-the-first-time-in-2-years/
 
 ---
 

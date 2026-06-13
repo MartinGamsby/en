@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Can Bitcoin Price Be Predicted, From the Beginning?
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Bitcoin,Crypto,Finance,Prediction,NFA,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0i6faj0013wmr0coj23l5d0/preview-image-L5vtElMTNvBkyNPJdDXdwSL5kq3Lza.png
 ref: https://martingamsby.github.io/le-prix-du-bitcoin-peut-il-etre-predit-depuis-le-debut
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-08-31-can-bitcoin-price-be-predicted-from-the-beginning/
 
 ---
 

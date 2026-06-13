@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Massive layoff
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Anecdote,Job]
 excerpt_image: 
 ref: https://martingamsby.github.io/licenciements-massifs
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-29-massive-layoff/
 
 ---
 

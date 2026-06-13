@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: I'm afraid of soup
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Gluten,Health,Food,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0mufr5g00mmmk0dwn5j2lzh/preview-image-4f7FHwEjx67FoKhUwEtRPyl3Mvy6JM.jfif
 ref: https://martingamsby.github.io/jai-peur-de-la-soupe
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-03-im-afraid-of-soup/
 
 ---
 

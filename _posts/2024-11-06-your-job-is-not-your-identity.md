@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Your job is not your identity
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Identity,Growth,Perspective,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/ton-travail-nest-pas-ton-identite
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-11-06-your-job-is-not-your-identity/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Just a few hours of practice, easier than you think!
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Piano,Jazz,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/quelques-heures-de-pratique-seulement-plus-facile-que-vous-pensez
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-11-04-just-a-few-hours-of-practice-easier-than-you-think/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: The important thing is not what team you're on
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/limportant-ce-nest-pas-dans-quelle-equipe-tu-es
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2025-07-01-the-important-thing-is-not-what-team-youre-on/
 
 ---
 

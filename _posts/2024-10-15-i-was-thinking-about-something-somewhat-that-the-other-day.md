@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: I was thinking about something somewhat that the other day ...
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Technology,Phone,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/je-pensais-a-ca-lautre-jour
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-10-15-i-was-thinking-about-something-somewhat-that-the-other-day/
 
 ---
 

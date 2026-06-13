@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Stop hustling, enjoy chores
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Mental Health,Productivity,Personal Development,Habits,ADHD,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0srl4te0000lc0c80rery4e/preview-image-uIPnYyafTV1aZnpPzmuNeiLEN7g8ro.jpg
 ref: https://martingamsby.github.io/arretez-le-hustle-culture-profitez-des-taches-menageres
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-07-stop-hustling-enjoy-chores/
 
 ---
 

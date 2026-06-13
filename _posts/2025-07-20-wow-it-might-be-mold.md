@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Wow it might be mold...
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Gamsblurb,Mold,Health]
 excerpt_image: 
 ref: https://martingamsby.github.io/wow-cest-la-moisissure
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2025-07-20-wow-it-might-be-mold/
 
 ---
 

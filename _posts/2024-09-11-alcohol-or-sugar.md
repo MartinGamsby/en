@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Alcohol or sugar?
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Health,Addiction,Sugar,Food,Alcohol,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0xwrjka015aky0ch4g0yelq/preview-image-FQiZcXXyh6HfewpofAhzTLGIj5q361.jfif
 ref: https://martingamsby.github.io/alcool-ou-sucre
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-11-alcohol-or-sugar/
 
 ---
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Parents are adapting
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Parent,Child,ADHD,Neurodiversity,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm0h0njjy00s4ml0cscbkstzr/preview-image-AYJWqweXuUVQzzqUYeAfy7zJKGvnk6.jpeg
 ref: https://martingamsby.github.io/les-parents-sadaptent
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-08-30-parents-are-adapting/
 
 ---
 

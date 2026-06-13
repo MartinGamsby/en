@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Writing challenge; imagine if a mundane task became something you can no longer take for granted, because now it comes with some consequence
 categories: ["Length: Mini", "Gamsblurb"]
 tags: [Writing,Gluten,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/defi-decriture-imaginez-si-une-tache-banale-devenait-quelque-chose-que-vous-ne-pouvez-plus-tenir-pour-acquis-car-elle-comporte-desormais-des-consequences
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-11-04-writing-challenge-imagine-if-a-mundane-task-became-something-you-can-no-longer-take-for-granted-because-now-it-comes-with-some-consequence/
 
 ---
 

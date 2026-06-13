@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: You don't know what you don't know (Obviously)
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Health,Food,Sleep,Fit,Gym,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm1mddzx3004djn0cog7madhv/preview-image-j0gpwHRoBWBG1VCVlJSByH1XulkSp0.jpg
 ref: https://martingamsby.github.io/on-ne-sait-pas-ce-quon-ne-sait-pas-evidemment
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-28-you-dont-know-what-you-dont-know-obviously/
 
 ---
 

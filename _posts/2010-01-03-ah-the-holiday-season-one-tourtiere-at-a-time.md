@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Ah, the holiday season (one tourtière at a time)
 categories: ["Length: Medium", "Gamsblurb"]
 tags: [Tourtière,Custom,Celebrations,Learning,Motivation,Balance,Gamsblurb]
 excerpt_image: 
 ref: https://martingamsby.github.io/ah-le-temps-des-fetes-une-tourtiere-a-la-fois
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2010-01-03-ah-the-holiday-season-one-tourtiere-at-a-time/
 
 ---
 

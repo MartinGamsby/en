@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: redirect
 title: Be careful what you wish for
 categories: ["Length: Short", "Gamsblurb"]
 tags: [Software Development,Personal Development,Coding,Purpose,Meme,Gamsblurb]
 excerpt_image: https://2orpfio4ixpxegt9.public.blob.vercel-storage.com/blogPost/cm110x8mr004tjv0c7rjqapy9/preview-image-HykJolRchmoJRXTWzELYRl7SwmYl4l.jpg
 ref: https://martingamsby.github.io/faites-attention-a-ce-que-vous-souhaitez
+
+redirect_to: https://martingamsby.github.io/martingamsby.com/en/blog/2024-09-13-be-careful-what-you-wish-for/
 
 ---
 
